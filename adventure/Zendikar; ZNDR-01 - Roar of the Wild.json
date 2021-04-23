@@ -18,9 +18,9 @@
 	},
   "adventure": [
 		{
-			"name": "Caverns of Catastrophe",
-			"id": "Giddy-1",
-			"source": "Giddy",
+			"name": "Roar of the Wilds",
+			"id": "ZNDR-01",
+			"source": "ZNDR-01",
 			"contents": [
 				{
 					"name": "The Adventure",
