@@ -13,8 +13,8 @@
 				"targetSchema": "1.1.0"
 			}
 		],
-		"dateAdded": 0,
-		"dateLastModified": 0
+		"dateAdded": 1558867830,
+		"dateLastModified": 1558867830
 	},
   "adventure": [
 		{
@@ -40,8 +40,8 @@
 	],
 	"adventureData": [
 		{
-			"id": "Giddy-1",
-			"source": "Giddy",
+			"id": "Roar of the Wild",
+			"source": "ZNDR-01",
 			"data": [
 				{
 					"type": "section",
