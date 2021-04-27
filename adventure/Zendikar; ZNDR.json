@@ -71,13 +71,13 @@
 									"type": "entries",
 									"name": "The Festival",
 									"entries": [
-										"There are multiple styles of clothing worn in the festival.",
+										"There are multiple styles of clothing worn in the festival:",
 										{
 											"type": "list",
 											"items": [
-												"Vampires tend to wear black clothing with red acents and pointed potrutions that are usually on the shoulders, elbows, and/or head. They often have capes and have red markings on their bodies",
-												"Air genasi tend to wear clear white fine silk. Women wear long loose fitting flowy houppelandes ",
-												"Earth genasi tead to"
+												"Vampires: Both men and women wear black clothing with red acents and pointed potrutions that are usually on the shoulders, elbows, and/or head. And they often have capes and have red markings on their bodies",
+												"Air genasi: Women wear long flowy houppelandes made with multiple layers of white or light blue silk. Men wear white linen tunics with light blue silk tabards.",
+												"Earth genasi: Women "
 											]
 										}
 									]
