@@ -33,7 +33,7 @@
 			],
 			"level": {
 				"start": 1,
-				"end": 1
+				"end": 12
 			},
 			"published": "2021-04-23",
 			"storyline": "Zendikar"
@@ -53,25 +53,18 @@
 							"name": "Introduction",
 							"entries": [
 								{
-									"type": "inset",
+									"type": "entries",
 									"name": "Prologue",
 									"entries": [
-										"300 years ago the Fauthyrian Empire was created. It was all due to one man: Fauthyr, the 20th king of the Malakirian kingdom, or more accurately he was Malakir's liberator. He was one of the most powerful wizards in Malakir even before his ascension into godhood. After he became a god he liberated Malakir and conquered Guul Draz, Murasa, the Murasan islands, and the south of Bala Ged. Fauthyr was slain 100 years later by the Saelsom Empire with help from its allies. After his death, the Saelsom Empire ruled over Guul Draz and Bala Ged. The only remnants of the Fauthyrian Empire were small towns in Murasa and the Murasan islands and small nomadic villages in the wilds of Guul Draz and Bala Ged. Malakir quickly became one of the wealthiest cities in all of Zendikar because its position easily allowed for trade routes to be established. This wealth led to the people not seeing a need for the Sun King and secede from the empire. This caused a civil war which weakened Malakir and the Fauthyrian nomads took advantage of this weakness to reclaim the city. A king was established, and they conquered the rest of eastern Guul Draz and destroyed the monasteries of the Saelsom empire within that area. This inspired the Fauthyrian nomads in central Guul Draz to do the same. The Fauthyrian Empire still has control over those territories even to this day. 5 years ago a king rose up who wanted to destroy the Saelsom Empire once and for all. He failed, but he did expand the territory further in the west of Guul Draz, conquer the south of Bala Ged, and the Principality of Tazuul surrendered to him."
-									]
-								},
-								{
-									"type": "list",
-									"items": [
-										"The war finally has ended, and you decided to travel to Malakir to see a festival celebrating the end of the war. And after a whole week of travelling you finally arrive at the gates of the city.",
-										"The next day you awake to the sound of bells, music, the clash of swords, and people chatting and cheering. The air is filled with various smells like that of smoke, and food.",
-										"Outside of the inn there is many people wearing colourful clothes, buildings decorated with fine linens, and people selling various types of food, drinks, and trinkets. There is also a bunch of people gathered and cheering in the park across the street from all of the shops."
+										"300 years ago the Fauthyrian Empire was created. It was all due to one man: Fauthyr, the 20th king of the Malakirian kingdom, or more accurately he was Malakir's liberator. He was one of the most powerful wizards in Malakir even before his ascension into godhood. After he became a god he liberated Malakir and conquered Guul Draz, Murasa, the Murasan islands, and the south of Bala Ged. Fauthyr was slain 100 years later by the Saelsom Empire with help from its allies. After his death, the Saelsom Empire ruled over Guul Draz and Bala Ged. The only remnants of the Fauthyrian Empire were small towns in Murasa and the Murasan islands and small nomadic villages in the wilds of Guul Draz and Bala Ged. Malakir quickly became one of the wealthiest cities in all of Zendikar because its position easily allowed for trade routes to be established. This wealth led to the people not seeing a need for the Sun King and secede from the empire. This caused a civil war which weakened Malakir and the Fauthyrian nomads took advantage of this weakness to reclaim the city. A king was established, and they conquered the rest of eastern Guul Draz and destroyed the monasteries of the Saelsom empire within that area. This inspired the Fauthyrian nomads in central Guul Draz to do the same. The Fauthyrian Empire still has control over those territories even to this day. 5 years ago a king rose up who wanted to destroy the Saelsom Empire once and for all. He failed, but he did expand the territory further in the west of Guul Draz, conquer the south of Bala Ged, and the Principality of Tazuul surrendered to him. After the end of the war, the newly appointed king announced that there would be a festival in Malakir to celebrate the peace treaty with the Saelsom Empire. The party travelled the week long journey all the way from The Reffuge to Malakir. They arrived on the night before the festival and found an inn to stay in."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "The Festival",
 									"entries": [
-										"The festival is to celebrate the end of the war.",
+										"Shortly after sunrise there is the sound of bells, music, the clash of swords, and people chatting and cheering. And the air is filled with various smells like that of smoke, and food.",
+										"Outside of the inn there is many people wearing colourful clothes, buildings decorated with fine linens, and people selling various types of food, drinks, and trinkets. There is also a bunch of people gathered and cheering in the park across the street from all of the shops.",
 										{
 											"type": "entries",
 											"name": "Clothing",
