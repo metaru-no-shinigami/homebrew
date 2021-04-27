@@ -86,6 +86,7 @@
 														"Fire genasi:" 
 													]
 												}
+											]
 										}
 									]
 								},
@@ -99,12 +100,6 @@
 										"The lights turn off and then turn back on showing the dryad walking through a plentiful forest. And suddenly the ground shakes and people panic. Someone in the back yells 'Earthquake! Everyone take cover!'. People panicking try to run out of the building and then the beam snaps. The roof starts to collapse.",
 										"They see the shady man from before dead.",
 										"He has a letter in his pocket that says \"I heard that you have become the member of The Black Owl. I have another task for you: Have The Black Owl kidnap Dr. Kinnung Screllbyrn and bring him to the forbidden ruins near Malakir and have him open the vault. Kinnung would also be needed to decipher scrolls so that we know where we need to go next. Gaerd will be waiting at the ruins to keep an eye on the members of The Black Owl, and so he can bring the scrolls and the relics directly to me. I have included 500gp to bribe the leader to contribute to our cause. Do not fail me, or you will be the first thing that the hatchlings will first on!\" ."
-
-									]
-								},
-								{
-									"type": "list",
-									"items": [	
 									]
 								}
 							]
